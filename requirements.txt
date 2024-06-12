@@ -1,0 +1,8 @@
+torch  # Ensure you specify the correct version compatible with your CUDA version
+nemo_toolkit[all]  # Ensure you specify the correct version compatible with your setup
+nltk
+ipython
+soundfile
+pydub
+PyMuPDF
+
